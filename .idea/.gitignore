@@ -3,3 +3,14 @@
 /workspace.xml
 # Editor-based HTTP Client requests
 /httpRequests/
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Gradle
+.gradle/
+build/
+
+# Java class files
+*.class
